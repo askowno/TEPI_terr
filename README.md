@@ -13,7 +13,7 @@ This Repository contains a workflow that results in the Terrestrial Ecosystem Pr
 The results were summarised in R (using tidyverse package) and TEPI was calculated for each biome and overall in the script [Tepi.qmd](Tepi.qmd). The main outputs are main outputs are [tepi_sum_biome.csv](outputs/tepi_sum_biome.csv) and the plots below.
 
 | BIOME TEPI | Overall TEPI |
-|------------------------------------|------------------------------------|
+|----|----|
 | ![](outputs/TEPI_terr_plot_biome.jpeg) | ![](outputs/TEPI_terr_plot_overall.jpeg) |
 
 #### 
